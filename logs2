@@ -1,0 +1,541 @@
+main: pid: 31388
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 192.168.0.1
+IP header: 45 c0 00 4c 4f e8 00 00 40 01 a7 fb c0 a8 00 01 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 65 40 00 01 01 56 f4 c0 a8 00 bc 08 08 08 08 08 00 7d 60 7a 9c 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type time exceeded
+Received IP packet with ICMP content from: 192.168.0.1
+IP header: 45 c0 00 4c 4f e9 00 00 40 01 a7 fa c0 a8 00 01 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 66 40 00 01 01 56 f3 c0 a8 00 bc 08 08 08 08 08 00 7d 5f 7a 9c 00 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type time exceeded
+Received IP packet with ICMP content from: 192.168.0.1
+IP header: 45 c0 00 4c 4f ea 00 00 40 01 a7 f9 c0 a8 00 01 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 67 40 00 01 01 56 f2 c0 a8 00 bc 08 08 08 08 08 00 7d 5e 7a 9c 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type time exceeded
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 89.73.180.1
+IP header: 45 c0 00 4c c9 78 00 00 3f 01 e2 c9 59 49 b4 01 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 69 40 00 01 01 56 f0 c0 a8 00 bc 08 08 08 08 08 00 7d 5d 7a 9c 00 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type time exceeded
+Received IP packet with ICMP content from: 89.73.180.1
+IP header: 45 c0 00 4c c9 79 00 00 3f 01 e2 c8 59 49 b4 01 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 6a 40 00 01 01 56 ef c0 a8 00 bc 08 08 08 08 08 00 7d 5c 7a 9c 00 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type time exceeded
+Received IP packet with ICMP content from: 89.73.180.1
+IP header: 45 c0 00 4c c9 7a 00 00 3f 01 e2 c7 59 49 b4 01 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 6b 40 00 01 01 56 ee c0 a8 00 bc 08 08 08 08 08 00 7d 5b 7a 9c 00 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type time exceeded
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 89.75.12.1
+IP header: 45 00 00 38 00 00 00 00 fd 01 97 14 59 4b 0c 01 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 6f 40 00 01 01 56 ea c0 a8 00 bc 08 08 08 08 08 00 7d 5a 7a 9c 00 09 
+
+receive_packets: type time exceeded
+Received IP packet with ICMP content from: 89.75.12.1
+IP header: 45 00 00 38 00 00 00 00 fd 01 97 14 59 4b 0c 01 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 70 40 00 01 01 56 e9 c0 a8 00 bc 08 08 08 08 08 00 7d 59 7a 9c 00 0a 
+
+receive_packets: type time exceeded
+Received IP packet with ICMP content from: 89.75.12.1
+IP header: 45 00 00 38 00 00 00 00 fd 01 97 14 59 4b 0c 01 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 71 40 00 01 01 56 e8 c0 a8 00 bc 08 08 08 08 08 00 7d 58 7a 9c 00 0b 
+
+receive_packets: type time exceeded
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 84.116.253.210
+IP header: 45 00 00 a8 00 00 40 00 f6 01 70 a9 54 74 fd d2 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 72 40 00 01 01 56 e7 c0 a8 00 bc 08 08 08 08 08 00 7d 57 7a 9c 00 0c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 cd ef 00 08 01 01 00 06 11 01 
+
+receive_packets: type time exceeded
+Received IP packet with ICMP content from: 84.116.253.210
+IP header: 45 00 00 a8 00 00 40 00 f6 01 70 a9 54 74 fd d2 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 73 40 00 01 01 56 e6 c0 a8 00 bc 08 08 08 08 08 00 7d 56 7a 9c 00 0d 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 cd ef 00 08 01 01 00 06 11 01 
+
+receive_packets: type time exceeded
+Received IP packet with ICMP content from: 84.116.253.210
+IP header: 45 00 00 a8 00 00 40 00 f6 01 70 a9 54 74 fd d2 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 74 40 00 01 01 56 e5 c0 a8 00 bc 08 08 08 08 08 00 7d 55 7a 9c 00 0e 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 cd ef 00 08 01 01 00 06 11 01 
+
+receive_packets: type time exceeded
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 84.116.253.206
+IP header: 45 00 00 a8 00 00 40 00 f7 01 6f ad 54 74 fd ce c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 77 40 00 01 01 56 e2 c0 a8 00 bc 08 08 08 08 08 00 7d 54 7a 9c 00 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 19 37 00 08 01 01 04 be c1 01 
+
+receive_packets: type time exceeded
+Received IP packet with ICMP content from: 84.116.253.206
+IP header: 45 00 00 a8 00 00 40 00 f7 01 6f ad 54 74 fd ce c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 78 40 00 01 01 56 e1 c0 a8 00 bc 08 08 08 08 08 00 7d 53 7a 9c 00 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 19 37 00 08 01 01 04 be c1 01 
+
+receive_packets: type time exceeded
+Received IP packet with ICMP content from: 84.116.253.206
+IP header: 45 00 00 a8 00 00 40 00 f7 01 6f ad 54 74 fd ce c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 79 40 00 01 01 56 e0 c0 a8 00 bc 08 08 08 08 08 00 7d 52 7a 9c 00 11 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 19 37 00 08 01 01 04 be c1 01 
+
+receive_packets: type time exceeded
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 84.116.133.29
+IP header: 45 00 00 a8 00 00 40 00 f9 01 e6 5e 54 74 85 1d c0 a8 00 bc 
+IP data:   0b 00 fe 43 00 00 00 00 45 00 00 30 51 7a 40 00 01 01 4d 9b c0 a8 00 bc 08 08 08 08 08 00 7d 51 7a 9c 00 12 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 bd ee 00 08 01 01 00 07 21 01 
+
+receive_packets: type time exceeded
+Received IP packet with ICMP content from: 84.116.133.29
+IP header: 45 00 00 a8 00 00 40 00 f9 01 e6 5e 54 74 85 1d c0 a8 00 bc 
+IP data:   0b 00 fe 42 00 00 00 00 45 00 00 30 51 7b 40 00 01 01 4d 9b c0 a8 00 bc 08 08 08 08 08 00 7d 50 7a 9c 00 13 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 bd ee 00 08 01 01 00 07 21 01 
+
+receive_packets: type time exceeded
+Received IP packet with ICMP content from: 84.116.133.29
+IP header: 45 00 00 a8 00 00 40 00 f9 01 e6 5e 54 74 85 1d c0 a8 00 bc 
+IP data:   0b 00 fe 41 00 00 00 00 45 00 00 30 51 7c 40 00 01 01 4d 9b c0 a8 00 bc 08 08 08 08 08 00 7d 4f 7a 9c 00 14 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 bd ee 00 08 01 01 00 07 21 01 
+
+receive_packets: type time exceeded
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 84.116.138.102
+IP header: 45 00 00 38 00 00 00 00 fa 01 20 86 54 74 8a 66 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 7d 40 00 01 01 56 dc c0 a8 00 bc 08 08 08 08 08 00 7d 4e 7a 9c 00 15 
+
+receive_packets: type time exceeded
+Received IP packet with ICMP content from: 84.116.138.102
+IP header: 45 00 00 38 00 00 00 00 fa 01 20 86 54 74 8a 66 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 7e 40 00 01 01 56 db c0 a8 00 bc 08 08 08 08 08 00 7d 4d 7a 9c 00 16 
+
+receive_packets: type time exceeded
+Received IP packet with ICMP content from: 84.116.138.102
+IP header: 45 00 00 38 00 00 00 00 fa 01 20 86 54 74 8a 66 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 7f 40 00 01 01 56 da c0 a8 00 bc 08 08 08 08 08 00 7d 4c 7a 9c 00 17 
+
+receive_packets: type time exceeded
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 72.14.203.234
+IP header: 45 00 00 60 e9 79 00 00 39 01 c2 c6 48 0e cb ea c0 a8 00 bc 
+IP data:   0b 00 f4 ee 00 11 00 00 45 00 00 30 51 84 40 00 01 01 56 d5 c0 a8 00 bc 08 08 08 08 08 00 7d 4b 7a 9c 00 18 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type time exceeded
+Received IP packet with ICMP content from: 72.14.203.234
+IP header: 45 00 00 60 e9 7a 00 00 39 01 c2 c5 48 0e cb ea c0 a8 00 bc 
+IP data:   0b 00 f4 ee 00 11 00 00 45 00 00 30 51 85 40 00 01 01 56 d4 c0 a8 00 bc 08 08 08 08 08 00 7d 4a 7a 9c 00 19 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type time exceeded
+Received IP packet with ICMP content from: 72.14.203.234
+IP header: 45 00 00 60 e9 7b 00 00 39 01 c2 c4 48 0e cb ea c0 a8 00 bc 
+IP data:   0b 00 f4 ee 00 11 00 00 45 00 00 30 51 86 40 00 01 01 56 d3 c0 a8 00 bc 08 08 08 08 08 00 7d 49 7a 9c 00 1a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type time exceeded
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 142.250.227.11
+IP header: 45 c0 00 4c dc 48 00 00 37 01 73 3e 8e fa e3 0b c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 60 00 30 51 8b 40 00 01 01 56 6e c0 a8 00 bc 08 08 08 08 08 00 7d 48 7a 9c 00 1b 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type time exceeded
+Received IP packet with ICMP content from: 142.250.227.11
+IP header: 45 c0 00 4c dc 49 00 00 37 01 73 3d 8e fa e3 0b c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 60 00 30 51 8c 40 00 01 01 56 6d c0 a8 00 bc 08 08 08 08 08 00 7d 47 7a 9c 00 1c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type time exceeded
+Received IP packet with ICMP content from: 142.250.227.11
+IP header: 45 c0 00 4c dc 4a 00 00 37 01 73 3c 8e fa e3 0b c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 60 00 30 51 8d 40 00 01 01 56 6c c0 a8 00 bc 08 08 08 08 08 00 7d 46 7a 9c 00 1d 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type time exceeded
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 108.170.234.245
+IP header: 45 00 00 60 d0 09 00 00 39 01 98 8f 6c aa ea f5 c0 a8 00 bc 
+IP data:   0b 00 f4 ee 00 11 00 00 45 60 00 30 51 8e 40 00 01 01 56 6b c0 a8 00 bc 08 08 08 08 08 00 7d 45 7a 9c 00 1e 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type time exceeded
+Received IP packet with ICMP content from: 108.170.234.245
+IP header: 45 00 00 60 d0 0a 00 00 39 01 98 8e 6c aa ea f5 c0 a8 00 bc 
+IP data:   0b 00 f4 ee 00 11 00 00 45 60 00 30 51 8f 40 00 01 01 56 6a c0 a8 00 bc 08 08 08 08 08 00 7d 44 7a 9c 00 1f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type time exceeded
+Received IP packet with ICMP content from: 108.170.234.245
+IP header: 45 00 00 60 d0 0c 00 00 39 01 98 8c 6c aa ea f5 c0 a8 00 bc 
+IP data:   0b 00 f4 ee 00 11 00 00 45 60 00 30 51 90 40 00 01 01 56 69 c0 a8 00 bc 08 08 08 08 08 00 7d 43 7a 9c 00 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type time exceeded
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 42 7a 9c 00 21 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 41 7a 9c 00 22 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 40 7a 9c 00 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 3f 7a 9c 00 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 3e 7a 9c 00 25 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 3d 7a 9c 00 26 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 3c 7a 9c 00 27 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 3b 7a 9c 00 28 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 3a 7a 9c 00 29 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 39 7a 9c 00 2a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 38 7a 9c 00 2b 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 37 7a 9c 00 2c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 36 7a 9c 00 2d 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 35 7a 9c 00 2e 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 34 7a 9c 00 2f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 33 7a 9c 00 30 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 32 7a 9c 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 31 7a 9c 00 32 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 30 7a 9c 00 33 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 2f 7a 9c 00 34 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 2e 7a 9c 00 35 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 2d 7a 9c 00 36 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 2c 7a 9c 00 37 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 2b 7a 9c 00 38 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 2a 7a 9c 00 39 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 29 7a 9c 00 3a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 28 7a 9c 00 3b 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 27 7a 9c 00 3c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 26 7a 9c 00 3d 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 25 7a 9c 00 3e 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 24 7a 9c 00 3f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 23 7a 9c 00 40 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 22 7a 9c 00 41 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 21 7a 9c 00 42 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 20 7a 9c 00 43 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 1f 7a 9c 00 44 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 1e 7a 9c 00 45 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 1d 7a 9c 00 46 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 1c 7a 9c 00 47 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 1b 7a 9c 00 48 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 1a 7a 9c 00 49 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 19 7a 9c 00 4a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 18 7a 9c 00 4b 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 17 7a 9c 00 4c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 16 7a 9c 00 4d 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 15 7a 9c 00 4e 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 14 7a 9c 00 4f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 13 7a 9c 00 50 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 12 7a 9c 00 51 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 11 7a 9c 00 52 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 10 7a 9c 00 53 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 0f 7a 9c 00 54 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 0e 7a 9c 00 55 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 0d 7a 9c 00 56 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 0c 7a 9c 00 57 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 0b 7a 9c 00 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 0a 7a 9c 00 59 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+send_packet: bytes sent: 28
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 09 7a 9c 00 5a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 08 7a 9c 00 5b 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo
+Received IP packet with ICMP content from: 8.8.8.8
+IP header: 45 60 00 30 00 00 00 00 74 01 74 f9 08 08 08 08 c0 a8 00 bc 
+IP data:   00 00 85 07 7a 9c 00 5c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+receive_packets: type echo

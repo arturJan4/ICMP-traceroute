@@ -1,0 +1,578 @@
+traceroute: pid: 1985
+traceroute to 216.58.207.78 (216.58.207.78), 30 hops max
+send_packet: bytes sent: 28, ttl: 1, seqnum: 3
+send_packet: bytes sent: 28, ttl: 1, seqnum: 4
+send_packet: bytes sent: 28, ttl: 1, seqnum: 5
+
+========================
+IP header: 45 c0 00 4c 4f fa 00 00 40 01 a7 e9 c0 a8 00 01 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 32 40 00 01 01 bf ad c0 a8 00 bc d8 3a cf 4e 08 00 f0 3b 07 c1 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+receive_packets: Received IP packet with ICMP content from: 192.168.0.1
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 0 ms
+IP header: 45 c0 00 4c 4f fb 00 00 40 01 a7 e8 c0 a8 00 01 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 33 40 00 01 01 bf ac c0 a8 00 bc d8 3a cf 4e 08 00 f0 3a 07 c1 00 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+receive_packets: Received IP packet with ICMP content from: 192.168.0.1
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 0 ms
+IP header: 45 c0 00 4c 4f fc 00 00 40 01 a7 e7 c0 a8 00 01 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 34 40 00 01 01 bf ab c0 a8 00 bc d8 3a cf 4e 08 00 f0 39 07 c1 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+receive_packets: Received IP packet with ICMP content from: 192.168.0.1
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 0 ms
+receive_packets: received packets: 3
+build_output: ip addr: 192.168.0.1
+build_output: ip addr: 192.168.0.1
+build_output: ip addr: 192.168.0.1
+
+
+1. 192.168.0.1  ???
+send_packet: bytes sent: 28, ttl: 2, seqnum: 6
+send_packet: bytes sent: 28, ttl: 2, seqnum: 7
+send_packet: bytes sent: 28, ttl: 2, seqnum: 8
+
+========================
+IP header: 45 c0 00 4c 20 e8 00 00 3f 01 8b 5a 59 49 b4 01 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 35 40 00 01 01 bf aa c0 a8 00 bc d8 3a cf 4e 08 00 f0 38 07 c1 00 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+receive_packets: Received IP packet with ICMP content from: 89.73.180.1
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 16 ms
+IP header: 45 c0 00 4c 20 e9 00 00 3f 01 8b 59 59 49 b4 01 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 36 40 00 01 01 bf a9 c0 a8 00 bc d8 3a cf 4e 08 00 f0 37 07 c1 00 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+receive_packets: Received IP packet with ICMP content from: 89.73.180.1
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 17 ms
+IP header: 45 c0 00 4c 20 ea 00 00 3f 01 8b 58 59 49 b4 01 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 37 40 00 01 01 bf a8 c0 a8 00 bc d8 3a cf 4e 08 00 f0 36 07 c1 00 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+receive_packets: Received IP packet with ICMP content from: 89.73.180.1
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 17 ms
+receive_packets: received packets: 3
+build_output: ip addr: 89.73.180.1
+build_output: ip addr: 89.73.180.1
+build_output: ip addr: 89.73.180.1
+
+
+2. 89.73.180.1 16ms
+send_packet: bytes sent: 28, ttl: 3, seqnum: 9
+send_packet: bytes sent: 28, ttl: 3, seqnum: 10
+send_packet: bytes sent: 28, ttl: 3, seqnum: 11
+
+========================
+IP header: 45 00 00 38 00 00 00 00 fd 01 97 14 59 4b 0c 01 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 3b 40 00 01 01 bf a4 c0 a8 00 bc d8 3a cf 4e 08 00 f0 35 07 c1 00 09 
+receive_packets: Received IP packet with ICMP content from: 89.75.12.1
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 14 ms
+IP header: 45 00 00 38 00 00 00 00 fd 01 97 14 59 4b 0c 01 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 3c 40 00 01 01 bf a3 c0 a8 00 bc d8 3a cf 4e 08 00 f0 34 07 c1 00 0a 
+receive_packets: Received IP packet with ICMP content from: 89.75.12.1
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 14 ms
+IP header: 45 00 00 38 00 00 00 00 fd 01 97 14 59 4b 0c 01 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 3d 40 00 01 01 bf a2 c0 a8 00 bc d8 3a cf 4e 08 00 f0 33 07 c1 00 0b 
+receive_packets: Received IP packet with ICMP content from: 89.75.12.1
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 14 ms
+receive_packets: received packets: 3
+build_output: ip addr: 89.75.12.1
+build_output: ip addr: 89.75.12.1
+build_output: ip addr: 89.75.12.1
+
+
+3. 89.75.12.1 14ms
+send_packet: bytes sent: 28, ttl: 4, seqnum: 12
+send_packet: bytes sent: 28, ttl: 4, seqnum: 13
+send_packet: bytes sent: 28, ttl: 4, seqnum: 14
+
+========================
+IP header: 45 00 00 a8 00 00 40 00 f6 01 70 a9 54 74 fd d2 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 41 40 00 01 01 bf 9e c0 a8 00 bc d8 3a cf 4e 08 00 f0 32 07 c1 00 0c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 cd ef 00 08 01 01 00 06 11 01 
+receive_packets: Received IP packet with ICMP content from: 84.116.253.210
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 21 ms
+IP header: 45 00 00 a8 00 00 40 00 f6 01 70 a9 54 74 fd d2 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 42 40 00 01 01 bf 9d c0 a8 00 bc d8 3a cf 4e 08 00 f0 31 07 c1 00 0d 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 cd ef 00 08 01 01 00 06 11 01 
+receive_packets: Received IP packet with ICMP content from: 84.116.253.210
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 21 ms
+IP header: 45 00 00 a8 00 00 40 00 f6 01 70 a9 54 74 fd d2 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 43 40 00 01 01 bf 9c c0 a8 00 bc d8 3a cf 4e 08 00 f0 30 07 c1 00 0e 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 cd ef 00 08 01 01 00 06 11 01 
+receive_packets: Received IP packet with ICMP content from: 84.116.253.210
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 21 ms
+receive_packets: received packets: 3
+build_output: ip addr: 84.116.253.210
+build_output: ip addr: 84.116.253.210
+build_output: ip addr: 84.116.253.210
+
+
+4. 84.116.253.210 21ms
+send_packet: bytes sent: 28, ttl: 5, seqnum: 15
+send_packet: bytes sent: 28, ttl: 5, seqnum: 16
+send_packet: bytes sent: 28, ttl: 5, seqnum: 17
+
+========================
+IP header: 45 00 00 a8 00 00 40 00 f7 01 6f ad 54 74 fd ce c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 45 40 00 01 01 bf 9a c0 a8 00 bc d8 3a cf 4e 08 00 f0 2f 07 c1 00 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 19 37 00 08 01 01 04 be c1 01 
+receive_packets: Received IP packet with ICMP content from: 84.116.253.206
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 20 ms
+IP header: 45 00 00 a8 00 00 40 00 f7 01 6f ad 54 74 fd ce c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 46 40 00 01 01 bf 99 c0 a8 00 bc d8 3a cf 4e 08 00 f0 2e 07 c1 00 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 19 37 00 08 01 01 04 be c1 01 
+receive_packets: Received IP packet with ICMP content from: 84.116.253.206
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 20 ms
+IP header: 45 00 00 a8 00 00 40 00 f7 01 6f ad 54 74 fd ce c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 47 40 00 01 01 bf 98 c0 a8 00 bc d8 3a cf 4e 08 00 f0 2d 07 c1 00 11 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 19 37 00 08 01 01 04 be c1 01 
+receive_packets: Received IP packet with ICMP content from: 84.116.253.206
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 20 ms
+receive_packets: received packets: 3
+build_output: ip addr: 84.116.253.206
+build_output: ip addr: 84.116.253.206
+build_output: ip addr: 84.116.253.206
+
+
+5. 84.116.253.206 20ms
+send_packet: bytes sent: 28, ttl: 6, seqnum: 18
+send_packet: bytes sent: 28, ttl: 6, seqnum: 19
+send_packet: bytes sent: 28, ttl: 6, seqnum: 20
+
+========================
+IP header: 45 00 00 a8 00 00 40 00 f9 01 e6 5e 54 74 85 1d c0 a8 00 bc 
+IP data:   0b 00 66 f7 00 00 00 00 45 00 00 30 51 4d 40 00 01 01 4d 9b c0 a8 00 bc d8 3a cf 4e 08 00 f0 2c 07 c1 00 12 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 bd ee 00 08 01 01 00 07 21 01 
+receive_packets: Received IP packet with ICMP content from: 84.116.133.29
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 22 ms
+IP header: 45 00 00 a8 00 00 40 00 f9 01 e6 5e 54 74 85 1d c0 a8 00 bc 
+IP data:   0b 00 66 f6 00 00 00 00 45 00 00 30 51 4e 40 00 01 01 4d 9b c0 a8 00 bc d8 3a cf 4e 08 00 f0 2b 07 c1 00 13 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 bd ee 00 08 01 01 00 07 21 01 
+receive_packets: Received IP packet with ICMP content from: 84.116.133.29
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 23 ms
+IP header: 45 00 00 a8 00 00 40 00 f9 01 e6 5e 54 74 85 1d c0 a8 00 bc 
+IP data:   0b 00 66 f5 00 00 00 00 45 00 00 30 51 4f 40 00 01 01 4d 9b c0 a8 00 bc d8 3a cf 4e 08 00 f0 2a 07 c1 00 14 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 bd ee 00 08 01 01 00 07 21 01 
+receive_packets: Received IP packet with ICMP content from: 84.116.133.29
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 23 ms
+receive_packets: received packets: 3
+build_output: ip addr: 84.116.133.29
+build_output: ip addr: 84.116.133.29
+build_output: ip addr: 84.116.133.29
+
+
+6. 84.116.133.29 22ms
+send_packet: bytes sent: 28, ttl: 7, seqnum: 21
+send_packet: bytes sent: 28, ttl: 7, seqnum: 22
+send_packet: bytes sent: 28, ttl: 7, seqnum: 23
+
+========================
+IP header: 45 00 00 38 00 00 00 00 fa 01 20 86 54 74 8a 66 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 55 40 00 01 01 bf 8a c0 a8 00 bc d8 3a cf 4e 08 00 f0 29 07 c1 00 15 
+receive_packets: Received IP packet with ICMP content from: 84.116.138.102
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 18 ms
+IP header: 45 00 00 38 00 00 00 00 fa 01 20 86 54 74 8a 66 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 56 40 00 01 01 bf 89 c0 a8 00 bc d8 3a cf 4e 08 00 f0 28 07 c1 00 16 
+receive_packets: Received IP packet with ICMP content from: 84.116.138.102
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 21 ms
+IP header: 45 00 00 38 00 00 00 00 fa 01 20 86 54 74 8a 66 c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 00 00 30 51 57 40 00 01 01 bf 88 c0 a8 00 bc d8 3a cf 4e 08 00 f0 27 07 c1 00 17 
+receive_packets: Received IP packet with ICMP content from: 84.116.138.102
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 21 ms
+receive_packets: received packets: 3
+build_output: ip addr: 84.116.138.102
+build_output: ip addr: 84.116.138.102
+build_output: ip addr: 84.116.138.102
+
+
+7. 84.116.138.102 20ms
+send_packet: bytes sent: 28, ttl: 8, seqnum: 24
+send_packet: bytes sent: 28, ttl: 8, seqnum: 25
+send_packet: bytes sent: 28, ttl: 8, seqnum: 26
+
+========================
+IP header: 45 00 00 60 b0 42 00 00 39 01 fb fd 48 0e cb ea c0 a8 00 bc 
+IP data:   0b 00 f4 ee 00 11 00 00 45 00 00 30 51 5c 40 00 01 01 bf 83 c0 a8 00 bc d8 3a cf 4e 08 00 f0 26 07 c1 00 18 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+receive_packets: Received IP packet with ICMP content from: 72.14.203.234
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 22 ms
+IP header: 45 00 00 60 b0 43 00 00 39 01 fb fc 48 0e cb ea c0 a8 00 bc 
+IP data:   0b 00 f4 ee 00 11 00 00 45 00 00 30 51 5d 40 00 01 01 bf 82 c0 a8 00 bc d8 3a cf 4e 08 00 f0 25 07 c1 00 19 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+receive_packets: Received IP packet with ICMP content from: 72.14.203.234
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 22 ms
+IP header: 45 00 00 60 b0 44 00 00 39 01 fb fb 48 0e cb ea c0 a8 00 bc 
+IP data:   0b 00 f4 ee 00 11 00 00 45 00 00 30 51 5e 40 00 01 01 bf 81 c0 a8 00 bc d8 3a cf 4e 08 00 f0 24 07 c1 00 1a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+receive_packets: Received IP packet with ICMP content from: 72.14.203.234
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 22 ms
+receive_packets: received packets: 3
+build_output: ip addr: 72.14.203.234
+build_output: ip addr: 72.14.203.234
+build_output: ip addr: 72.14.203.234
+
+
+8. 72.14.203.234 22ms
+send_packet: bytes sent: 28, ttl: 9, seqnum: 27
+send_packet: bytes sent: 28, ttl: 9, seqnum: 28
+send_packet: bytes sent: 28, ttl: 9, seqnum: 29
+
+========================
+IP header: 45 c0 00 4c fa dc 00 00 37 01 54 aa 8e fa e3 0b c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 60 00 30 51 65 40 00 01 01 bf 1a c0 a8 00 bc d8 3a cf 4e 08 00 f0 23 07 c1 00 1b 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+receive_packets: Received IP packet with ICMP content from: 142.250.227.11
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 20 ms
+IP header: 45 c0 00 4c fa dd 00 00 37 01 54 a9 8e fa e3 0b c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 60 00 30 51 66 40 00 01 01 bf 19 c0 a8 00 bc d8 3a cf 4e 08 00 f0 22 07 c1 00 1c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+receive_packets: Received IP packet with ICMP content from: 142.250.227.11
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 20 ms
+IP header: 45 c0 00 4c fa de 00 00 37 01 54 a8 8e fa e3 0b c0 a8 00 bc 
+IP data:   0b 00 f4 ff 00 00 00 00 45 60 00 30 51 67 40 00 01 01 bf 18 c0 a8 00 bc d8 3a cf 4e 08 00 f0 21 07 c1 00 1d 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+receive_packets: Received IP packet with ICMP content from: 142.250.227.11
+
+is_correct_packet: type: time exceeded
+extract_te_header: type time exceeded
+is_correct_packet: packet is correct
+receive_packets: time: 22 ms
+receive_packets: received packets: 3
+build_output: ip addr: 142.250.227.11
+build_output: ip addr: 142.250.227.11
+build_output: ip addr: 142.250.227.11
+
+
+9. 142.250.227.11 20ms
+send_packet: bytes sent: 28, ttl: 10, seqnum: 30
+send_packet: bytes sent: 28, ttl: 10, seqnum: 31
+send_packet: bytes sent: 28, ttl: 10, seqnum: 32
+
+========================
+receive_packets: timeout on select
+receive_packets: received packets: 0
+build_output: ip addr: 
+build_output: ip addr: 
+
+
+10. *
+send_packet: bytes sent: 28, ttl: 11, seqnum: 33
+send_packet: bytes sent: 28, ttl: 11, seqnum: 34
+send_packet: bytes sent: 28, ttl: 11, seqnum: 35
+
+========================
+receive_packets: timeout on select
+receive_packets: received packets: 0
+build_output: ip addr: 
+build_output: ip addr: 
+
+
+11. *
+send_packet: bytes sent: 28, ttl: 12, seqnum: 36
+send_packet: bytes sent: 28, ttl: 12, seqnum: 37
+send_packet: bytes sent: 28, ttl: 12, seqnum: 38
+
+========================
+receive_packets: timeout on select
+receive_packets: received packets: 0
+build_output: ip addr: 
+build_output: ip addr: 
+
+
+12. *
+send_packet: bytes sent: 28, ttl: 13, seqnum: 39
+send_packet: bytes sent: 28, ttl: 13, seqnum: 40
+send_packet: bytes sent: 28, ttl: 13, seqnum: 41
+
+========================
+receive_packets: timeout on select
+receive_packets: received packets: 0
+build_output: ip addr: 
+build_output: ip addr: 
+
+
+13. *
+send_packet: bytes sent: 28, ttl: 14, seqnum: 42
+send_packet: bytes sent: 28, ttl: 14, seqnum: 43
+send_packet: bytes sent: 28, ttl: 14, seqnum: 44
+
+========================
+receive_packets: timeout on select
+receive_packets: received packets: 0
+build_output: ip addr: 
+build_output: ip addr: 
+
+
+14. *
+send_packet: bytes sent: 28, ttl: 15, seqnum: 45
+send_packet: bytes sent: 28, ttl: 15, seqnum: 46
+send_packet: bytes sent: 28, ttl: 15, seqnum: 47
+
+========================
+receive_packets: timeout on select
+receive_packets: received packets: 0
+build_output: ip addr: 
+build_output: ip addr: 
+
+
+15. *
+send_packet: bytes sent: 28, ttl: 16, seqnum: 48
+send_packet: bytes sent: 28, ttl: 16, seqnum: 49
+send_packet: bytes sent: 28, ttl: 16, seqnum: 50
+
+========================
+receive_packets: timeout on select
+receive_packets: received packets: 0
+build_output: ip addr: 
+build_output: ip addr: 
+
+
+16. *
+send_packet: bytes sent: 28, ttl: 17, seqnum: 51
+send_packet: bytes sent: 28, ttl: 17, seqnum: 52
+send_packet: bytes sent: 28, ttl: 17, seqnum: 53
+
+========================
+receive_packets: timeout on select
+receive_packets: received packets: 0
+build_output: ip addr: 
+build_output: ip addr: 
+
+
+17. *
+send_packet: bytes sent: 28, ttl: 18, seqnum: 54
+send_packet: bytes sent: 28, ttl: 18, seqnum: 55
+send_packet: bytes sent: 28, ttl: 18, seqnum: 56
+
+========================
+receive_packets: timeout on select
+receive_packets: received packets: 0
+build_output: ip addr: 
+build_output: ip addr: 
+
+
+18. *
+send_packet: bytes sent: 28, ttl: 19, seqnum: 57
+send_packet: bytes sent: 28, ttl: 19, seqnum: 58
+send_packet: bytes sent: 28, ttl: 19, seqnum: 59
+
+========================
+receive_packets: timeout on select
+receive_packets: received packets: 0
+build_output: ip addr: 
+build_output: ip addr: 
+
+
+19. *
+send_packet: bytes sent: 28, ttl: 20, seqnum: 60
+send_packet: bytes sent: 28, ttl: 20, seqnum: 61
+send_packet: bytes sent: 28, ttl: 20, seqnum: 62
+
+========================
+receive_packets: timeout on select
+receive_packets: received packets: 0
+build_output: ip addr: 
+build_output: ip addr: 
+
+
+20. *
+send_packet: bytes sent: 28, ttl: 21, seqnum: 63
+send_packet: bytes sent: 28, ttl: 21, seqnum: 64
+send_packet: bytes sent: 28, ttl: 21, seqnum: 65
+
+========================
+receive_packets: timeout on select
+receive_packets: received packets: 0
+build_output: ip addr: 
+build_output: ip addr: 
+
+
+21. *
+send_packet: bytes sent: 28, ttl: 22, seqnum: 66
+send_packet: bytes sent: 28, ttl: 22, seqnum: 67
+send_packet: bytes sent: 28, ttl: 22, seqnum: 68
+
+========================
+receive_packets: timeout on select
+receive_packets: received packets: 0
+build_output: ip addr: 
+build_output: ip addr: 
+
+
+22. *
+send_packet: bytes sent: 28, ttl: 23, seqnum: 69
+send_packet: bytes sent: 28, ttl: 23, seqnum: 70
+send_packet: bytes sent: 28, ttl: 23, seqnum: 71
+
+========================
+receive_packets: timeout on select
+receive_packets: received packets: 0
+build_output: ip addr: 
+build_output: ip addr: 
+
+
+23. *
+send_packet: bytes sent: 28, ttl: 24, seqnum: 72
+send_packet: bytes sent: 28, ttl: 24, seqnum: 73
+send_packet: bytes sent: 28, ttl: 24, seqnum: 74
+
+========================
+receive_packets: timeout on select
+receive_packets: received packets: 0
+build_output: ip addr: 
+build_output: ip addr: 
+
+
+24. *
+send_packet: bytes sent: 28, ttl: 25, seqnum: 75
+send_packet: bytes sent: 28, ttl: 25, seqnum: 76
+send_packet: bytes sent: 28, ttl: 25, seqnum: 77
+
+========================
+receive_packets: timeout on select
+receive_packets: received packets: 0
+build_output: ip addr: 
+build_output: ip addr: 
+
+
+25. *
+send_packet: bytes sent: 28, ttl: 26, seqnum: 78
+send_packet: bytes sent: 28, ttl: 26, seqnum: 79
+send_packet: bytes sent: 28, ttl: 26, seqnum: 80
+
+========================
+receive_packets: timeout on select
+receive_packets: received packets: 0
+build_output: ip addr: 
+build_output: ip addr: 
+
+
+26. *
+send_packet: bytes sent: 28, ttl: 27, seqnum: 81
+send_packet: bytes sent: 28, ttl: 27, seqnum: 82
+send_packet: bytes sent: 28, ttl: 27, seqnum: 83
+
+========================
+receive_packets: timeout on select
+receive_packets: received packets: 0
+build_output: ip addr: 
+build_output: ip addr: 
+
+
+27. *
+send_packet: bytes sent: 28, ttl: 28, seqnum: 84
+send_packet: bytes sent: 28, ttl: 28, seqnum: 85
+send_packet: bytes sent: 28, ttl: 28, seqnum: 86
+
+========================
+receive_packets: timeout on select
+receive_packets: received packets: 0
+build_output: ip addr: 
+build_output: ip addr: 
+
+
+28. *
+send_packet: bytes sent: 28, ttl: 29, seqnum: 87
+send_packet: bytes sent: 28, ttl: 29, seqnum: 88
+send_packet: bytes sent: 28, ttl: 29, seqnum: 89
+
+========================
+receive_packets: timeout on select
+receive_packets: received packets: 0
+build_output: ip addr: 
+build_output: ip addr: 
+
+
+29. *
+send_packet: bytes sent: 28, ttl: 30, seqnum: 90
+send_packet: bytes sent: 28, ttl: 30, seqnum: 91
+send_packet: bytes sent: 28, ttl: 30, seqnum: 92
+
+========================
+receive_packets: timeout on select
+receive_packets: received packets: 0
+build_output: ip addr: 
+build_output: ip addr: 
+
+
+30. *

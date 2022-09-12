@@ -1,0 +1,1 @@
+/usr/bin/gcc-10 -g   CMakeFiles/traceroute.dir/main.c.o CMakeFiles/traceroute.dir/receive.c.o CMakeFiles/traceroute.dir/send.c.o  -o traceroute 

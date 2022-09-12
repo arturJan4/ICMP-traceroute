@@ -1,4 +1,0 @@
-/home/artur/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/201.6668.126/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc-10 -DCMAKE_CXX_COMPILER=/usr/bin/g++-10 -G "CodeBlocks - Unix Makefiles" /home/artur/Desktop/Sieci/traceroute
--- Configuring done
--- Generating done
--- Build files have been written to: /home/artur/Desktop/Sieci/traceroute/cmake-build-debug
